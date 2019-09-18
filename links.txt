@@ -10,3 +10,6 @@ Links
 =====
 feh – a fast and light image viewer
 https://feh.finalrewind.org/
+
+Feh is a light-weight command-line image viewer for Linux - gHacks Tech New
+https://www.ghacks.net/2019/09/16/feh-is-a-light-weight-command-line-image-viewer-for-linux/
